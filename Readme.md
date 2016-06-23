@@ -27,4 +27,10 @@ Because clicking things on Excel takes too long and is prone to human error
 3. This project does not do stats. Just viz.
 4. Code will keep changing.
 
+## Update as of 6/23/16
+1. New line of code to direct R to appropriate folder containing raw textouts
+2. Added red vertical dotted lines to indicate time window in final plot.
+3. Directed R to spit out plot image to a subfolder
+
+
 
